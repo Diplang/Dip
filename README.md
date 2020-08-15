@@ -543,6 +543,4 @@ Install Dip at <http://dip-lang.org/install>.
 
 # Thanks!
 
-Thanks to [CodePulse](https://www.youtube.com/channel/UCUVahoidFA7F3Asfvamrm7w) for his tutorials!
-
-Thanks to Robert Nystrom for his great book [Crafting Interpreters](https://craftinginterpreters.com/)!
+Thanks to Robert Nystrom for his great book [Crafting Interpreters](https://craftinginterpreters.com/), [CodePulse] (https://www.youtube.com/channel/UCUVahoidFA7F3Asfvamrm7w) for his tutorials, and Daniel Holden for his book [Build your own lisp](http://www.buildyourownlisp.com/)!
